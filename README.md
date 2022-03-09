@@ -1,9 +1,9 @@
 # 💎Hello, my name is Andrea Sierra 💁‍♀️
 ### Frontend Developer Junior & Multimedia Engineering student
 
-I started my journey to become a front-end web developer throughout Platzi. It has been eight months of hard work and constant learning about HTML, CSS, JS, React JS, and good practices at writing code. 
+I started my journey to become a front-end web developer thanks to a scolarship given by my city's Townhall. It has been eight months of hard work and constant learning about HTML, CSS, JS, React JS, good practices at writing code, and more. Special thanks to Platzi, the best learning platform ❤.
 
-Thanks to the Multimedia Engineering career that I'm currently coursing, I noticed that I love to design as well as programming, that's why as soon as I saw the opportunity given by my city's Townhall I didn't even think twice.
+Thanks to the Multimedia Engineering career that I'm currently coursing, I noticed that I love to design as well as programming, that's why as soon as I saw the opportunity to study frontend web development I didn't even think twice.
 
 ### Take a look of what I've learnt!
 
