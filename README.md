@@ -26,7 +26,10 @@ Thanks to the Multimedia Engineering career that I'm currently coursing, I notic
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
 </br>
 
-And more...
+### ***3 Special things about me:***
+- I'm an active member of the Colombian Scout Association ⚜
+- I own my bakery entrepreneurship since 11 years old 🧁
+- I love to cook delicious dishes 🍲
 
 ## Get to know me:
 
